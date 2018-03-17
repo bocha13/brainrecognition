@@ -26,7 +26,6 @@ const ParticlesOptions = {
   }
 }
 
-
 class App extends Component {
   constructor() {
     super();
