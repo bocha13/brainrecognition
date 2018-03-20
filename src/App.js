@@ -76,7 +76,6 @@ class App extends Component {
     this.setState({route: route});
   }
 
-
   render() {
     return (
       <div className="App">
